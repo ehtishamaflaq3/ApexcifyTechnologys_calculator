@@ -34,7 +34,7 @@ This project demonstrates clean UI design, smooth animations, and full calculato
 ## Check Now
 
 <p align="center">
-  <a href=" https://ehtishamaflaq3.github.io/ApexcifyTechnologys_calculator/">
+  <a href="https://ehtishamaflaq3.github.io/ApexcifyTechnologys_calculator/">
     <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
