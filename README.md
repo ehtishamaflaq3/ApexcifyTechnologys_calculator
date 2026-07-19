@@ -6,7 +6,7 @@ This project demonstrates clean UI design, smooth animations, and full calculato
 
 ## Features
 
-- Basic arithmetic operations (+, −, ×, ÷)
+- Basic arithmetic operations.
 - Interactive buttons and display screen
 - Real-time calculations
 - Clear (C) functionality
@@ -40,23 +40,6 @@ This project demonstrates clean UI design, smooth animations, and full calculato
 </p>
 
 ---
-## How to Use
-
-1. Enter numbers using buttons or keyboard  
-2. Use operators (+, -, *, /)  
-3. Press **= or Enter** to calculate  
-4. Press **C** to clear screen  
-
----
-
-## Code Highlights
-
-- Used `eval()` for expression calculation
-- Added `keydown` event for keyboard support
-- Designed UI using **CSS Grid**
-- Applied **hover & click animations**
-
----
 
 ## Future Improvements
 
@@ -73,5 +56,3 @@ This project demonstrates clean UI design, smooth animations, and full calculato
 Created by *Ehtisham Aflaq*
 
 ---
-
-## 📂 Project Structure
